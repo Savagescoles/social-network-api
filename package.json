@@ -13,6 +13,8 @@
   "author": "savagescoles",
   "license": "MIT",
   "dependencies": {
+    "all": "^0.0.0",
+    "cwd": "^0.10.0",
     "dotenv": "^16.0.0",
     "env": "^0.0.2",
     "express.js": "^1.0.0",
