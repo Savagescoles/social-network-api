@@ -4,6 +4,7 @@ const routes = require("./routes");
 const db = require("./config/connection");
 require("dotenv").config();
 
+//current working directory package
 const cwd = process.cwd();
 
 const app = express();
