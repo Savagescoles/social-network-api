@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "homework assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "social-network-api"
+  },
+  "author": "savagescoles",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "env": "^0.0.2",
+    "express.js": "^1.0.0",
+    "moment": "^2.29.3",
+    "mongod": "^2.0.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.2"
+  }
+}
